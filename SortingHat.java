@@ -256,7 +256,7 @@ public class SortingHat {
 		System.out.println(java.util.Arrays.toString(slytherin)+ " " + "Serpeverde");
 		System.out.println(java.util.Arrays.toString(hufflepuff)+ " " + "Tassorosso");
 		System.out.println(java.util.Arrays.toString(ravenclaw)+ " " + "Corvonero");
-		System.out.println("Ora che vi ho smistati nelle vostre case...che il nuovo anno abbia inizio!!!");
+		System.out.println("Ora che vi ho smistati nelle vostre case...che il vostro nuovo anno magico abbia inizio!!!");
 	}
 
 }
